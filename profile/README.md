@@ -64,12 +64,12 @@ Otic has expanded into Rwanda, providing services in enterprise skilling, AI bus
 
 ### Our Valued Clients
 <div align="center">
-  <img src="assets/images/client-logos.png" alt="Our Clients" width="80%">
+  <img src="assets/images/clients/client-logos.png" alt="Our Clients" width="80%">
 </div>
 
 ### Our Esteemed Partners
 <div align="center">
-  <img src="assets/images/partner-logos.png" alt="Our Partners" width="80%">
+  <img src="assets/images/clients/partner-logos.png" alt="Our Partners" width="80%">
 </div>
 
 ---
