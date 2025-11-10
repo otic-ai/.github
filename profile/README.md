@@ -60,8 +60,17 @@ Otic has expanded into Rwanda, providing services in enterprise skilling, AI bus
 
 ---
 
-## 🤝 Our Clients
-Ecobank, Uganda Communications Commission, International Association for Strategy Professionals, ISACA Kampala Chapter, Roofings, Stanfield, UPDF, Kyambogo University, Makerere University, MS, Capital Markets Authority, Cavendish University Uganda, Ministry of ICT and National Guidance, National ICT Innovation Hub, Uganda Institute of Information and Communications Technology, International University of East Africa, American Center Kampala, W3 Schools, United States and Africa Initiatives, Datamine, Makerere University Business School, ACWJ.
+## 🤝 Our Clients & Partners
+
+### Our Valued Clients
+<div align="center">
+  <img src="assets/images/client-logos.png" alt="Our Clients" width="80%">
+</div>
+
+### Our Esteemed Partners
+<div align="center">
+  <img src="assets/images/partner-logos.png" alt="Our Partners" width="80%">
+</div>
 
 ---
 
